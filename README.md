@@ -1,7 +1,7 @@
 # wlanPTF 👀
 A real neato automated recon tool by https://wlan1.net
 
-_Essentially, wlanPTF automates the first step in any recon job:
+_wlanPTF automates the first step in any recon job:
 "Run a light nmap scan, investigate the http ports, see what's up with open SMB shares, etc."_
 
 *Designed for scenarios where making noise isn't an issue.
